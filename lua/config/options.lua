@@ -12,3 +12,4 @@ vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
 vim.opt.colorcolumn = "120"
+vim.opt.clipboard = "unnamedplus"
